@@ -22,3 +22,8 @@ Input:
 
 ```txt
 hello
+
+output:
+
+```txt
+✍︎♏︎●︎●︎□︎
